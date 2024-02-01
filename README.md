@@ -1,0 +1,1 @@
+This Repository is consist of 3 programs such as 1. A simple calculator which performs basic operations as addition , subtraction, multiplication, and division. 2. A todo list which allows user to add their tasks and with checks boxes which shows the pending and completed tasks with GUI windows and lastly 3. A fun rock paper scissor game 
